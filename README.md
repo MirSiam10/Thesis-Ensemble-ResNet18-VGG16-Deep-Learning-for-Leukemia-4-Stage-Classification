@@ -4,8 +4,6 @@
 
 An ensemble deep learning framework (**ResNet18 + VGG16**) that classifies **four stages of Acute Lymphoblastic Leukemia (ALL)** — *Benign, Early Pre-B, Pre-B, and Pro-B* — from microscopic Peripheral Blood Smear (PBS) images, achieving **99.49% test accuracy** with built-in explainability via **Guided Backpropagation**.
 
-> 📄 Full report: [`Defence_Report.pdf`](./Defence_Report_4434_38_docx.pdf)
-
 ---
 
 ## 🎯 Motivation
@@ -82,11 +80,8 @@ pip install torch torchvision scikit-learn numpy pandas opencv-python matplotlib
 
 ## 👥 Authors
 
-- **Mir Siam** — 213-15-4438
-- **Farkulid Araf** — 213-15-4434
+- **Mir Siam** — 
+- **Farkulid Araf** — 
 
 Supervised by **Ms. Umme Ayman** (Lecturer, Senior Scale) and co-supervised by **Md. Monarul Islam**, Dept. of CSE, Daffodil International University.
 
-## 📄 License
-
-This project is shared for academic and portfolio purposes. Please cite or credit the authors if you build on this work.
