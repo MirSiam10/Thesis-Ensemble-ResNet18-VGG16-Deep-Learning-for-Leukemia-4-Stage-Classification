@@ -69,6 +69,9 @@ Guided Backpropagation saliency maps confirmed the model consistently attends to
 ```bash
 pip install torch torchvision scikit-learn numpy pandas opencv-python matplotlib seaborn
 ```
+<img width="311" height="251" alt="sample" src="https://github.com/user-attachments/assets/27ec8803-119c-4f2a-a7b0-72e402865f90" />
+<img width="333" height="140" alt="curve" src="https://github.com/user-attachments/assets/2f11d803-1460-4560-91e4-8df67fb89886" />
+
 
 ## 🔮 Future Work
 
