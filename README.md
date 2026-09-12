@@ -54,7 +54,7 @@ Guided Backpropagation saliency maps confirmed the model consistently attends to
 ├── thesis-code.ipynb          # Full pipeline: data loading → preprocessing →
 │                               # baseline models → ensemble model → evaluation →
 │                               # Guided Backpropagation explainability
-├── Defence_Report.pdf         # Full written thesis report
+├── Summary_Report.pdf         # Summary of Full thesis report
 └── README.md
 ```
 
